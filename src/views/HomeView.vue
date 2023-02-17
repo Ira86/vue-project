@@ -37,7 +37,7 @@
                      Vill du lämna feedback? Tvecka inte och kontakta oss!
                   </h1>
 
-                    <div v-if="!show">
+                    <div>
                         <ContactForm />
                     </div>
                 </div>
